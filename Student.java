@@ -3,4 +3,5 @@ public class Student{
     private String lname;
     private String classTeacher;
     private Integer id;
+    private Integer class;
 }
